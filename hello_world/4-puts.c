@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /*
+ *main - Entry point
  *
  * Description: 'print without printf the text
+ * @parameter: I'm not sure of the parameters
+ *
  * Return: Always 0 (Success)
  */
 
