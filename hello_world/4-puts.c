@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-/*
- *main - Entry point
+/**
+ *main - Entry point print with puts
  *
- * Description: 'print without printf the text
- * @parameter: I'm not sure of the parameters
+ *
+ * @main
  *
  * Return: Always 0 (Success)
- */
+ **/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
