@@ -4,6 +4,7 @@
  * main - prints sizes
  * @main
  * prints sizes of files
+ * Returns - sizes of types
  **/
 
 int main(void)
