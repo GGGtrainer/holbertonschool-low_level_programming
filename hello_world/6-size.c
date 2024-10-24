@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints sizes
- * @main
- * prints sizes of files
- * Returns - sizes of types
+ * main - entry point
+ * @main - prints sizes of files
+ * Return: - sizes of types
  **/
 
 int main(void)
