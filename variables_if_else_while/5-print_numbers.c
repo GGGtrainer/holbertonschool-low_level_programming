@@ -2,8 +2,8 @@
 
 /**
  * main - entry point
- * Print every single digit base 10 number
- * Result: Always 0
+ * @main - Print every single digit base 10 number
+ * Return: Always 0
 **/
 int main(void)
 {
@@ -11,7 +11,8 @@ int main(void)
 
 	for (i = 0; i <= 9; i++)
 	{
-	printf("%d\n", i);
+	printf("%d", i);
 	}
+	printf("\n");
 	return (0);
 }
