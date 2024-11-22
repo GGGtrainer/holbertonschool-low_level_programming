@@ -1,17 +1,10 @@
 #include "main.h"
-
-void _putchar(const char *message)
+ /**
+  * main- check code
+  * Return: Always 0
+  */
+int main(void)
 {
-	printf("%s\n", message);
-}
-
-void print_alphabet(void)
-{
-	char ch;
-
-	for (ch = 'a'; ch <= 'z'; ch++)
-	{
-	printf("%c", ch);
-	}
-	printf("\n");
+	print_alphabet();
+	return (0);
 }
