@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _memset - fills the first n bytes of mem area pointed by s /constant byte b
- * @*s: pointer to mem area
+ * @s: pointer to mem area
  * @b: constant byte
- * @n bytes of mem
+ * @n: bytes of mem
  * Return: pointer to mem area.
  */
 
